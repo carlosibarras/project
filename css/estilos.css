@@ -16,6 +16,10 @@ body
     margin: 0 auto;
 }
 
+p{
+    color: darkorchid;
+}
+
 #container h1
 {
     font-size: 20px;
