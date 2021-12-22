@@ -16,6 +16,11 @@ body
     margin: 0 auto;
 }
 
+#cabecera2{
+    text-align: center;
+    color: chocolate;
+}
+
 #container h1
 {
     font-size: 20px;
