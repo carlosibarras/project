@@ -16,9 +16,13 @@ body
     margin: 0 auto;
 }
 
+p{
+    color: darkorchid;
+}
+
 #cabecera2{
     text-align: center;
-    color: chocolate;
+    color: darkred;
 }
 
 #container h1
